@@ -7,7 +7,7 @@ var sizes = [];
 let colors = [];
 var color1 = "white"; 
 
-var color_setup1, color_setup2;
+var color_setup1; 
 
 
 function setup() {
